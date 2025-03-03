@@ -1,23 +1,12 @@
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-http.sslbackend=openssl
-http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
-core.autocrlf=true
-core.fscache=true
-core.symlinks=false
-pull.rebase=false
-credential.helper=manager
-credential.https://dev.azure.com.usehttppath=true
-init.defaultbranch=main
-core.editor="C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
-user.email=you@example.com
-user.name=You Name
-core.repositoryformatversion=0
-core.filemode=false
-core.bare=false
-core.logallrefupdates=true
-core.symlinks=false
-core.ignorecase=true
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+</head>
+<body>
+
+</body>
+</html>
